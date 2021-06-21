@@ -27,6 +27,9 @@ Atualmente no 4° semestre.
 <img src="https://icongr.am/devicon/python-original.svg?size=122&color=4d4243" alt="python" width="50" height="50"/>
 </p>
 
+![Snake animation](https://github.com/christopher205/christopher205/blob/output/github-contribution-grid-snake.svg)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher205)](https://github.com/christopher205/github-readme-stats)
 
 
