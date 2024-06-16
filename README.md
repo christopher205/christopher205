@@ -7,7 +7,7 @@
 
 ###### Sobre mim 👇
 
-Desenvolvedor Full Stack. Com a stack .NET CORE + Angular. Adoro bootstrap
+Desenvolvedor Full Stack. Com a stack .NET CORE + Angular. Adoro bootstrap. <br>
 Formado em Análise de Sistemas
 
 
